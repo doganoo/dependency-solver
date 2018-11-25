@@ -3,8 +3,8 @@
   "description": "listing database dependencies using topological sorting algorithms",
   "type": "library",
   "require": {
-    "doganoo/php-algorithms": "0.0.15",
-    "doganoo/php-util": "0.0.12"
+    "doganoo/php-algorithms": "0.0.*",
+    "doganoo/php-util": "0.0.*"
   },
   "license": "MIT",
   "authors": [
